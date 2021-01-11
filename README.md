@@ -14,12 +14,15 @@
 </table>
 
 ## About me
-I received my Bachelor's degree of Engineering in Nanjing University of Aeronautics and Astronautics (NUAA), 2018, Nanjing, China; I am currently a PhD student at Institute of Information Engineering, Chinese Academy of Sciences.
+I received my Bachelor's degree of Engineering in Nanjing University of Aeronautics and Astronautics (NUAA), 2018, Nanjing, China;
+I am currently a PhD student at Institute of Information Engineering, Chinese Academy of Sciences.
 
 ## Research Interests
 Differential Privacy, Machine Learning
 
 ## Recent News
 Feb 20, 2020. A paper titled 'Differentially Private ERM Based on Data Perturbation' was submitted to arXiv, 2020.
+
 Feb 20, 2020. A paper titled 'Input Perturbation: A New Paradigm between Central and Local Differential Privacy' was submitted to arXiv, 2020.
+
 Nov 14, 2019. A paper titled 'Weighted Distributed Differential Privacy ERM: Convex and Non-convex' was submitted to arXiv, 2019.
