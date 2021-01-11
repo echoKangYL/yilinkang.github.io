@@ -14,7 +14,7 @@
 </table>
 
 ## About me
-I received my Bachelor of Engineering’s Degree in Nanjing University of Aeronautics and Astronautics (NUAA), 2018, Nanjing, China; I am currently a PhD student at Institute of Information Engineering, Chinese Academy of Sciences.
+I received my Bachelor's degree of Engineering in Nanjing University of Aeronautics and Astronautics (NUAA), 2018, Nanjing, China; I am currently a PhD student at Institute of Information Engineering, Chinese Academy of Sciences.
 
 ## Research Interests
 Differential Privacy, Machine Learning
