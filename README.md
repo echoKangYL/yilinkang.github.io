@@ -21,8 +21,9 @@ I am currently a PhD student at Institute of Information Engineering, Chinese Ac
 Differential Privacy, Machine Learning
 
 ## Recent News
+**Weighted Distributed Differential Privacy ERM: Convex and Non-convex**
+**Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (accept, CCF-B)
+
 Feb 20, 2020. A paper titled 'Differentially Private ERM Based on Data Perturbation' was submitted to arXiv, 2020.
 
 Feb 20, 2020. A paper titled 'Input Perturbation: A New Paradigm between Central and Local Differential Privacy' was submitted to arXiv, 2020.
-
-Nov 14, 2019. A paper titled 'Weighted Distributed Differential Privacy ERM: Convex and Non-convex' was submitted to arXiv, 2019.
