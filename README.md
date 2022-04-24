@@ -24,6 +24,8 @@ Differential Privacy, Machine Learning
 **Weighted Distributed Differential Privacy ERM: Convex and Non-convex**  
 **Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (accept, CCF-B)
 
+Apr 22, 2022. A paper titled 'Sharper Utility Bounds for Differentially Private Models' was submitted to arXiv, 2022.
+
 Apr 11, 2022. A paper titled 'Stability and Generalization of Differentially Private Minimax Problems' was submitted to arXiv, 2022.
 
 Jun 01, 2021. A paper titled 'Towards Sharper Utility Bounds for Differentially Private Pairwise Learning' was submitted to arXiv, 2021.
