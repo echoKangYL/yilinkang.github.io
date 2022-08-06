@@ -18,7 +18,7 @@ I received my Bachelor's degree of Engineering in Nanjing University of Aeronaut
 I am currently a PhD student at Institute of Information Engineering, Chinese Academy of Sciences.
 
 ## Research Interests
-Differential Privacy, Machine Learning
+Differential Privacy, Machine Learning, Algorithmic Stability Theory
 
 ## Recent News
 **Weighted Distributed Differential Privacy ERM: Convex and Non-convex**  
