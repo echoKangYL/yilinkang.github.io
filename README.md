@@ -31,7 +31,7 @@ Differential Privacy, Machine Learning, Algorithmic Stability Theory
 
 **Data Heterogeneity Differential Privacy: From Theory to Algorithm**
 
-**Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. ICCS 2023
+**Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. ICCS 2023 (accepted)
 
 
 Apr 11, 2022. A paper titled 'Stability and Generalization of Differentially Private Minimax Problems' was submitted to arXiv, 2022.
