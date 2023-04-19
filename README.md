@@ -38,6 +38,6 @@ Apr 11, 2022. A paper titled 'Stability and Generalization of Differentially Pri
 
 Jun 01, 2021. A paper titled 'Towards Sharper Utility Bounds for Differentially Private Pairwise Learning' was submitted to arXiv, 2021.
 
-Feb 20, 2020. A paper titled 'Differentially Private ERM Based on Data Perturbation' was submitted to arXiv, 2020.
+% Feb 20, 2020. A paper titled 'Differentially Private ERM Based on Data Perturbation' was submitted to arXiv, 2020.
 
-Feb 20, 2020. A paper titled 'Input Perturbation: A New Paradigm between Central and Local Differential Privacy' was submitted to arXiv, 2020.
+% Feb 20, 2020. A paper titled 'Input Perturbation: A New Paradigm between Central and Local Differential Privacy' was submitted to arXiv, 2020.
