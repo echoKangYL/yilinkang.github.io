@@ -21,13 +21,13 @@ I am currently a PhD student at Institute of Information Engineering, Chinese Ac
 Differential Privacy, Machine Learning, Algorithmic Stability Theory
 
 ## Recent News
-**Weighted Distributed Differential Privacy ERM: Convex and Non-convex**  
-
-**Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (accept, CCF-B)
-
 **Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth**
 
 **Yilin Kang**, Yong Liu*, Jian Li, Weiping Wang. CIKM 2022 (accept, CCF-B)
+
+**Weighted Distributed Differential Privacy ERM: Convex and Non-convex**  
+
+**Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (accept, CCF-B)
 
 **Data Heterogeneity Differential Privacy: From Theory to Algorithm**
 
