@@ -2,10 +2,9 @@
   <tr>
     <td width="75%">
       <h1>Yilin Kang</h1>
-      <p><b>PhD Student</b></p>
-      <p><b>Institute of Information Engineering, Chinese Academy of Sciences</b></p>
-      <p><b>University of Chinese Academy of Sciences</b></p>
-      <p><b>Email: kangyilin@iie.ac.cn</b></p>
+      <p><b>Researcher</b></p>
+      <p><b>Purple Mountain Laboratories</b></p>
+      <p><b>Email: kangyilin@pmlabs.com.cn</b></p>
     </td>
     <td width="25%">
       <img src="/photof.jpg" width="100%">
@@ -14,11 +13,11 @@
 </table>
 
 ## About me
-I received my Bachelor's degree of Engineering in Nanjing University of Aeronautics and Astronautics (NUAA), 2018, Nanjing, China;
-I am currently a PhD student at Institute of Information Engineering, Chinese Academy of Sciences.
+I received my PhD degree in Cyber Security from the University of Chinese Academy of Sciences (UCAS), 2023, Beijing, China;
+I am currently a researcher at Purple Mountain Laboratories, Nanjing, China.
 
 ## Research Interests
-Differential Privacy, Machine Learning, Algorithmic Stability Theory
+Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Security, Endogenous Safety and Securiy
 
 ## Recent News
 **Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth**
