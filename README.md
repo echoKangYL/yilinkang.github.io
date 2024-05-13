@@ -31,7 +31,7 @@ Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Secu
 
 **A Differentially Private Framework for the Dynamic Heterogeneous Redundant Architecture System in Cyberspace**
 
-**Yilin Kang**, Qiao Zhang, Bingbing Jiang, Youjun Bu.  Electronics (JCR Q2), 2024.
+**Yilin Kang**, Qiao Zhang, Bingbing Jiang*, Youjun Bu.  Electronics (JCR Q2), 2024.
 
 **Data Heterogeneity Differential Privacy: From Theory to Algorithm**
 
