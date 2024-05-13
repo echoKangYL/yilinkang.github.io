@@ -23,15 +23,19 @@ Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Secu
 ## Recent News
 **Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth**
 
-**Yilin Kang**, Yong Liu*, Jian Li, Weiping Wang. CIKM 2022 (CCF-B)
+**Yilin Kang**, Yong Liu*, Jian Li, Weiping Wang. CIKM 2022 (Top, CCF-B).
 
 **Weighted Distributed Differential Privacy ERM: Convex and Non-convex**  
 
-**Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (CCF-B)
+**Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (CCF-B, JCR Q2), 2021.
+
+**A Differentially Private Framework for the Dynamic Heterogeneous Redundant Architecture System in Cyberspace**
+
+**Yilin Kang**, Qiao Zhang, Bingbing Jiang, Youjun Bu.  Electronics (JCR Q2), 2024.
 
 **Data Heterogeneity Differential Privacy: From Theory to Algorithm**
 
-**Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. ICCS 2023 (accepted)
+**Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. ICCS 2023.
 
 
 Apr 11, 2022. A paper titled 'Stability and Generalization of Differentially Private Minimax Problems' was submitted to arXiv, 2022.
