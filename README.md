@@ -33,9 +33,9 @@ Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Secu
 
 **Yilin Kang**, Qiao Zhang, Bingbing Jiang*, Youjun Bu.  Electronics (JCR Q2), 2024.
 
-**Threat Hunting Architecture for Electric Internet of Things: Redundancy, Diversity, Dynamism and Machine Learning**
+<!-- **Threat Hunting Architecture for Electric Internet of Things: Redundancy, Diversity, Dynamism and Machine Learning** -->
 
-Congcong Zhan, Shanyi Xie, **Yilin Kang\***, Yan Li, Caiyan Nong, Xianjun Hu, ICPRE 2024 (EI).
+<!-- Congcong Zhan, Shanyi Xie, **Yilin Kang\***, Yan Li, Caiyan Nong, Xianjun Hu, ICPRE 2024 (EI).-->
 
 **Data Heterogeneity Differential Privacy: From Theory to Algorithm**
 
