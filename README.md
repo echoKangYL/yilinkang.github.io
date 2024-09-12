@@ -18,16 +18,19 @@ I received my PhD degree in Cyber Security from the University of Chinese Academ
 I am currently a researcher at Purple Mountain Laboratories, Nanjing, China.
 
 ## Research Interests
-Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Security, Endogenous Safety and Securiy
+Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Security, Endogenous Safety and Security
 
 ## Recent News
+**Towards Sharper Excess Risk Bounds for Differentially Private Pairwise Learning**
+**Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. Neurocomputing (Top, JCR Q1, CCF-C), 2024.
+
 **Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth**
 
 **Yilin Kang**, Yong Liu*, Jian Li, Weiping Wang. CIKM 2022 (Top, CCF-B).
 
 **Weighted Distributed Differential Privacy ERM: Convex and Non-convex**  
 
-**Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (CCF-B, JCR Q2), 2021.
+**Yilin Kang**, Yong Liu*, Ben Niu, Weiping Wang. Computers & Security (JCR Q1, CCF-B), 2021.
 
 **A Differentially Private Framework for the Dynamic Heterogeneous Redundant Architecture System in Cyberspace**
 
@@ -43,5 +46,3 @@ Congcong Zhan, Shanyi Xie, **Yilin Kang\***, Yan Li, Caiyan Nong, Xianjun Hu, IC
 
 
 Apr 11, 2022. A paper titled 'Stability and Generalization of Differentially Private Minimax Problems' was submitted to arXiv, 2022.
-
-Jun 01, 2021. A paper titled 'Towards Sharper Utility Bounds for Differentially Private Pairwise Learning' was submitted to arXiv, 2021.
