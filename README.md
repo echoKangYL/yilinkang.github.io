@@ -22,6 +22,7 @@ Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Secu
 
 ## Recent News
 **Towards Sharper Excess Risk Bounds for Differentially Private Pairwise Learning**
+
 **Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. Neurocomputing (Top, JCR Q1, CCF-C), 2024.
 
 **Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth**
