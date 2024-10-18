@@ -41,6 +41,10 @@ Differential Privacy, Machine Learning, Algorithmic Stability Theory, Cyber Secu
 
 Congcong Zhan, Shanyi Xie, **Yilin Kang\***, Yan Li, Caiyan Nong, Xianjun Hu, ICPRE 2024 (EI).
 
+**Cyber Resilience based Threat Hunting for Electric Internet of Things**
+
+Shanyi Xie, Xingwang Li, **Yilin Kang\***, Gang Zhou, Congcong Zhan, Xianjun Hu, ICCC 2024 (EI).
+
 **Data Heterogeneity Differential Privacy: From Theory to Algorithm**
 
 **Yilin Kang**, Jian Li*, Yong Liu, Weiping Wang. ICCS 2023.
